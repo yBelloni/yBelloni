@@ -9,7 +9,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-.
+##
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/f.bellonii)
 [![Discord](https://img.shields.io/badge/-BELLONI-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Belloni#0688)
 [![Email](https://img.shields.io/badge/-FELIPEPBELLONI999@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipepbelloni999@gmail.com)
